@@ -1,6 +1,7 @@
-官方网站：
-https://www.idovpn.com（需翻墙）
+官方网站（需翻墙）：
+https://www.idovpn.com
 
+大陆访问地址：
 https://www.idovpn.xyz
 
 
