@@ -6,11 +6,13 @@ https://www.idovpn.xyz
 
 WINDOWS：
 https://www.idovpn.xyz/software/win/1.0.0/idovpn.exe
+
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
 
 MAC：
 https://www.idovpn.xyz/software/mac/1.0.0/idovpn.dmg
+
 此安装包仅支持macOS/OS X 10.12+版本；
 
 
