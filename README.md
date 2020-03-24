@@ -16,4 +16,5 @@ https://www.idovpn.xyz/software/mac/1.0.0/idovpn.dmg
 
 Android：
 https://www.idovpn.xyz/software/apk/1.0.2/idovpn.apk
+
 Google Play下载： https://play.google.com/store/apps/details?id=com.idovpn.android
