@@ -1,5 +1,5 @@
 官方网站（需翻墙）：
-https://www.idovpn.xyz
+https://www.idovpn.com
 
 钻石加速器各端最新版下载地址
 
@@ -20,3 +20,21 @@ Android：
 https://www.idovpn.xyz/software/apk/1.0.2/idovpn.apk
 
 Google Play下载： https://play.google.com/store/apps/details?id=com.idovpn.android
+
+
+Youtube，Netflix，Hulu，Hbo 流畅观看。
+-- 告别卡顿，解锁限制，开启超高清精彩之旅
+安全流畅
+-- 采用专利加密方式保障上网安全
+高速稳定
+-- 全自动均匀负载，香港、美国、日本、台湾 等线路极速体验
+精准流量
+-- 为您提供详细的流量统计表，让您了解您在各个时段的用量状况
+内容精彩
+-- 海量游戏精准覆盖，目前支持千款海外游戏
+IP保护
+-- 我们会隐藏您的IP地址并加密您的网络数据，保护所有设备
+使用简单
+-- 无需注册，一键轻松直连
+专业客服
+-- 7×24客户服务，远程技术支持，快速回复解决
