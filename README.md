@@ -5,19 +5,19 @@ https://www.idovpn.com
 
 
 WINDOWS：
-https://www.idovpn.xyz/software/win/1.0.0/idovpn.exe
+https://www.idovpn.com/software/win/1.0.0/idovpn.exe
 
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
 
 MAC：
-https://www.idovpn.xyz/software/mac/1.0.0/idovpn.dmg
+https://www.idovpn.com/software/mac/1.0.0/idovpn.dmg
 
 此安装包仅支持macOS/OS X 10.12+版本；
 
 
 Android：
-https://www.idovpn.xyz/software/apk/1.0.3/idovpn.apk
+https://www.idovpn.com/software/apk/1.0.3/idovpn.apk
 
 Google Play下载： 
 https://play.google.com/store/apps/details?id=com.idovpn.android
