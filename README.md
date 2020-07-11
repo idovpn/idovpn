@@ -23,11 +23,12 @@ Google Play下载： https://play.google.com/store/apps/details?id=com.idovpn.an
 
 
 AppStore下载:
-苹果美国appid，公共账号：
-appid@idovpn.com
-Appid123456
 
 https://apps.apple.com/us/app/%E9%92%BB%E7%9F%B3%E5%8A%A0%E9%80%9F%E5%99%A8/id1511645612
+
+苹果美国appid
+账号：appid@idovpn.com
+密码：Appid123456
 
 
 Youtube，Netflix，Hulu，Hbo 流畅观看。
