@@ -22,7 +22,7 @@ https://www.idovpn.com/software/apk/1.0.3/idovpn.apk
 Google Play下载： 
 
 <a href="https://play.google.com/store/apps/details?id=com.idovpn.android">
-<img alt="Get it on Google Play" src="https://github.com/idovpn/idovpn/blob/master/image/googleplay.png" width="320" height="95" />
+<img alt="Get it on Google Play" src="https://idovpn.com/images/banner/googleplay.png" width="320" height="95" />
 </a>
 
 https://play.google.com/store/apps/details?id=com.idovpn.android
@@ -30,7 +30,7 @@ https://play.google.com/store/apps/details?id=com.idovpn.android
 AppStore下载: 
 
 <a href="https://apps.apple.com/us/app/%E9%92%BB%E7%9F%B3%E5%8A%A0%E9%80%9F%E5%99%A8/id1511645612">
-<img alt="Get it on Google Play" src="https://github.com/idovpn/idovpn/blob/master/image/appstore.png" width="320" height="95" />
+<img alt="Get it on Google Play" src="https://idovpn.com/images/banner/appstore.png" width="320" height="95" />
 </a>
 
 https://apps.apple.com/us/app/%E9%92%BB%E7%9F%B3%E5%8A%A0%E9%80%9F%E5%99%A8/id1511645612
