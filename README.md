@@ -22,7 +22,11 @@ https://www.idovpn.xyz/software/apk/1.0.3/idovpn.apk
 Google Play下载： https://play.google.com/store/apps/details?id=com.idovpn.android
 
 
-AppStore:
+AppStore下载:
+苹果美国appid，公共账号：
+appid@idovpn.com
+Appid123456
+
 https://apps.apple.com/us/app/%E9%92%BB%E7%9F%B3%E5%8A%A0%E9%80%9F%E5%99%A8/id1511645612
 
 
