@@ -5,7 +5,7 @@ https://www.idovpn.com
 
 
 WINDOWS：
-https://www.idovpn.com/software/win/1.0.0/idovpn.exe
+https://www.idovpn.com/software/win/1.0.1/idovpn.exe
 
 此安装包支持Windows 7/8/10；
 
