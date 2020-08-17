@@ -1,5 +1,7 @@
 官方网站（需翻墙）：
 https://www.idovpn.com
+备用网址（需翻墙）：
+https://www.zuanshivpn.com
 
 钻石加速器各端最新版下载地址
 
