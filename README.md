@@ -1,4 +1,4 @@
-官方网站（需翻墙）：
+官方网站（需使用代理）：
 https://www.idovpn.com
 
 中国大陆可用地址：
@@ -41,7 +41,7 @@ https://apps.apple.com/us/app/%E9%92%BB%E7%9F%B3%E5%8A%A0%E9%80%9F%E5%99%A8/id15
 
 苹果美国appid
 账号：appid@idovpn.com
-密码：Appid12345678
+密码：Appid1234
 
 
 Youtube，Netflix，Hulu，Hbo 流畅观看。
