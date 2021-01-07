@@ -20,7 +20,7 @@ http://111.67.193.71/software/mac/1.0.0/idovpn.dmg
 
 
 Android：
-http://111.67.193.71/software/apk/1.0.6/idovpn.apk
+http://111.67.193.71/software/apk/1.0.8/idovpn.apk
 
 Google Play下载： 
 
