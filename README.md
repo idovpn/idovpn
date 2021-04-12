@@ -8,19 +8,22 @@ https://www.zuanshivpn.com
 
 
 WINDOWS：
-http://111.67.193.71/software/win/1.0.1/idovpn.exe
-
+https://www.zuanshivpn.com/download/win/1.0.1/idovpn.exe
 此安装包支持Windows 7/8/10；
+
+免安装,绿色版
+https://www.zuanshivpn.com/download/win/1.0.1/idovpn.zip
+
 
 
 MAC：
-http://111.67.193.71/software/mac/1.0.0/idovpn.dmg
+https://www.zuanshivpn.com/download/mac/1.0.2/idovpn.dmg
 
 此安装包仅支持macOS/OS X 10.12+版本；
 
 
 Android：
-http://111.67.193.71/software/apk/1.0.8/idovpn.apk
+https://www.zuanshivpn.com/download/apk/1.0.9/idovpn.apk
 
 Google Play下载： 
 
@@ -41,7 +44,7 @@ https://apps.apple.com/us/app/%E9%92%BB%E7%9F%B3%E5%8A%A0%E9%80%9F%E5%99%A8/id15
 
 苹果美国appid
 账号：appid@idovpn.com
-密码：Zsvpn1234
+密码：Wj1234567
 
 
 Youtube，Netflix，Hulu，Hbo 流畅观看。
