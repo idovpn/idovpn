@@ -23,7 +23,7 @@ https://www.zuanshivpn.com/download/mac/1.0.2/idovpn.dmg
 
 
 Android：
-https://www.zuanshivpn.com/download/apk/1.0.9/idovpn.apk
+https://www.zuanshivpn.com/download/apk/1.1.0/idovpn.apk
 
 Google Play下载： 
 
