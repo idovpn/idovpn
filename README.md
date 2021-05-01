@@ -49,7 +49,7 @@ https://apps.apple.com/us/app/%E9%92%BB%E7%9F%B3%E5%8A%A0%E9%80%9F%E5%99%A8/id15
 
 Youtube，Netflix，Hulu，Hbo 流畅观看。
 
--- 告别卡顿，解锁限制，开启超高清精彩之旅
+-- 告别卡顿，解锁限制，开启4K超清精彩之旅
 
 安全流畅
 
