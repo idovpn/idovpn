@@ -8,12 +8,11 @@ https://www.zuanshivpn.com
 
 
 WINDOWS：
-https://www.zuanshivpn.com/download/win/1.0.1/idovpn.exe
-此安装包支持Windows 7/8/10；
+https://www.zuanshivpn.com/download/win/1.0.2/idovpn.exe
+此安装包支持Windows 7/8/10 64位系统；
 
-免安装,绿色版
-https://www.zuanshivpn.com/download/win/1.0.1/idovpn.zip
-
+https://www.zuanshivpn.com/download/win/1.0.2/idovpn.zip
+此安装包支持Windows 7 32位系统；
 
 
 MAC：
