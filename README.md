@@ -1,8 +1,8 @@
 官方网站（需使用代理）：
-https://www.idovpn.com
+https://www.zuanshivpn.com
 
 中国大陆可用地址：
-https://www.zuanshivpn.com
+https://www.zuanshivpn1.com
 
 钻石加速器各端最新版下载地址
 
